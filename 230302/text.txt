@@ -1,0 +1,5 @@
+npm i: install
+
+ex)npm install -g nodemon
+npm i -g nodemon 은 같은 뜻이다
+
